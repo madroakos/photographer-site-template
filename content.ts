@@ -364,7 +364,7 @@ export const dictionary: Record<string, DictionaryEntry> = {
         },
         contact_page: {
             title: "CONTACT",
-            description: "If you have any questions, feel free to contact me.",
+            description: "Feel free to contact me.",
             email_label: "Email",
             email_actual: email,
             phone_label: "Phone",
